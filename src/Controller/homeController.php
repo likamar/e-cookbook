@@ -12,7 +12,7 @@ class homeController
 {
 
     /**
-     * @Route("/");
+     * @Route("/")
      * @return Response
      */
     public function helloWorld()
